@@ -2,8 +2,10 @@
 *Surname:* Leo;
 
 *Contacts:*
--*Email:* ....;
--*Adres:* ....;
+- *Email:* ....;
+- *Adres:* ....;
 
 *About me:* .....
+
+
 
